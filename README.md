@@ -1,4 +1,4 @@
-A pure Python implementation of [AES](http://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
+A Pure Python implementation of [AES](http://en.wikipedia.org/wiki/Advanced_Encryption_Standard) :
 
 ### TODO
 
